@@ -1,2 +1,14 @@
 # worldcup-mplus-pages
-HTML page archive and documentation
+
+静态页面记录中心
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
